@@ -212,6 +212,7 @@ public class Args {
                         errorArgumentId, errorParameter);
 
         }
+        return "";
     }
 
     private String unexpectedArgumentMessage() {
